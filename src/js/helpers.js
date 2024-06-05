@@ -1,4 +1,4 @@
-import { async } from 'regenerator-runtime';
+//import { async } from 'regenerator-runtime';
 import { TIMEOUT_SEC } from './config';
 
 // Goal of this file or module is to contain a couple of functions that we reuse over and over in our project.
